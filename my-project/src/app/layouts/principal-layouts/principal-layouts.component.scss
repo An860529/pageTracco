@@ -1,0 +1,99 @@
+
+.fs-4{
+    color:  rgba(6,47,100,1);
+    height: 40px;
+    margin: 10px;
+  
+}
+.fs-4:hover {
+    transform: scale(1.1);
+   color: white;
+   background-color: transparent;
+}
+
+.networks{
+    color: white;
+    transition: all .2s ease-in-out ; 
+    margin: 10px 60px 10px 0;
+
+}
+.networks:hover {
+    transform: scale(1.1);
+   color: rgb(9, 9, 134);
+   background-color: transparent;
+}
+.menuContainer{
+    display: flex;
+    
+}
+.container{
+    max-width: 100%;
+    height: max-content;
+    
+
+}
+.button{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    text-align: center;
+    line-height: 2em;
+    align-items: center;
+    justify-content: center;
+    padding: 70px 0 0 0 ;
+
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menulink {
+    background-color: rgba(6,47,100,1);
+    color: white;
+    padding: 5px;
+    border-radius: 6px;
+    width: 100px;
+    text-align: center;
+    transition: all .2s ease-in-out ;
+
+}
+.menulink:hover {
+    transform: scale(1.1);
+   color: black;
+   background-color: transparent;
+}
+.containerItem1{
+    background: rgb(150,150,152);
+background: linear-gradient(180deg, rgb(197, 197, 197) 0%, rgba(255,255,255,1) 100%);
+
+
+}
+.containerItem2{
+    background: rgb(150,150,152);
+    background: linear-gradient(0deg, rgba(150,150,152,1) 0%, rgba(255,255,255,1) 100%);
+    
+}
+.containerItem3{
+    background-color: rgba(6,47,100,1);
+    color: white;
+}
+.img-fluid{
+    margin: 15px;
+    box-shadow: 0 0 20px  rgba(6,47,100,1);
+    width: 80%;
+
+}
+
+
+
+
+
+
+
+
+
+
